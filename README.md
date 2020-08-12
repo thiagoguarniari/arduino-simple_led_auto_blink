@@ -25,4 +25,4 @@ The components used on this project were.
 * 2x Jumper wire male to male
 
 ## Project Schematic
-![schematic](images/schematic.png)
+![schematic](images/project_schematic.png)
